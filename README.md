@@ -5,7 +5,7 @@ Analysis of 950 commercial flights to draw insights on what factors affect the f
 Also, a predictive model (using Linear Regression) was built to predict landing distance so that risk of landing overrun can be reduced.
 
 ## Tools Used:
-SAS
+R
 
 ## Datasets used
 FAA1.csv and FAA2.csv datasets uploaded in this repository.
